@@ -1,0 +1,1 @@
+{"name":"@buzz/server","private":true,"type":"module","scripts":{"dev":"tsx watch src/index.ts"},"dependencies":{"@buzz/shared":"*","socket.io":"^4.8.0"}}
